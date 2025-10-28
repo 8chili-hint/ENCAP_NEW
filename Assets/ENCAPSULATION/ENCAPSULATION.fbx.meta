@@ -1,0 +1,1269 @@
+fileFormatVersion: 2
+guid: c2822cbd5e6126547b321e7d29399f07
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASKET_CONTAINER_BLACK
+    second: {fileID: 2100000, guid: b37a69d5bbfff014c90c830b23de603f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASKET_CONTAINER_BLUE
+    second: {fileID: 2100000, guid: 403706952302e4c4d8cdb97412df5235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BELT
+    second: {fileID: 2100000, guid: bc81537eff448aa4a85fa3448d8fecf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BELT_STEEL
+    second: {fileID: 2100000, guid: 2bc1362d87a28f74abf6672906728cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BELT_WHITE
+    second: {fileID: 2100000, guid: 62418578f5674c3439e396a634e43de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOX_STEEL
+    second: {fileID: 2100000, guid: fda4f0f63ba5b8c45a0ae7a929265e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABINATE_BLACK
+    second: {fileID: 2100000, guid: 575cfbb943c8ea747bca53ddb251459e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABINATE_GREY
+    second: {fileID: 2100000, guid: 3d1ec8b9670aa4244a8158c20ac39d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABINATE_RED
+    second: {fileID: 2100000, guid: edd4ceb2b0558054d8f8a2861c9c9a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABINATE_STEEL
+    second: {fileID: 2100000, guid: 3f87ff8e6695ea244a4d1dd56aefe574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABINATE_WHITE
+    second: {fileID: 2100000, guid: 3d2c02cd8ba70b343aba2129ff1b96e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABINATE_YELLOW
+    second: {fileID: 2100000, guid: e96314ece0bfbdc459c2a8eb30cbc7c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CELING_LIGHTS_STEEL
+    second: {fileID: 2100000, guid: 264d6d9fa16b894488e15b5f6e69f8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COVER_PLATE_STEEL
+    second: {fileID: 2100000, guid: 3fe4c7e1bf71c9c4ba270ea9c15f02a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRl_METER
+    second: {fileID: 2100000, guid: 4c07920428cce744ba41d323ffa3994c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_BLACK
+    second: {fileID: 2100000, guid: 1f7a580d412a96340aea403759d3b7b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GELATIN_WIRE_CONNECTIONS1
+    second: {fileID: 2100000, guid: be7104e1eac8e184d8abf5c1a6439360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GELATIN_WIRE_CONNECTIONS_WHITE
+    second: {fileID: 2100000, guid: 79ccda6d2df0ba24096f638e2a6bf243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_1_STEEL
+    second: {fileID: 2100000, guid: 892f160d5c0fcfb47b22af4bd58b9283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_2_STEEL
+    second: {fileID: 2100000, guid: 48cfda40d69a02d479a0fae66d01dcf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_3_STEEL
+    second: {fileID: 2100000, guid: 1b5ab9770f639254e8856e8c9e23868a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_4_STEEL
+    second: {fileID: 2100000, guid: 5400ec4187730274fa6d049aa9cf4efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_WHITE
+    second: {fileID: 2100000, guid: 0bcd02622c41507459aa10ff5252d11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_Container_BLACK
+    second: {fileID: 2100000, guid: 296483697e23fe44cb7f02c3726f7f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_Container_RED
+    second: {fileID: 2100000, guid: d8776c7c3cae50f4d9f8cc6e04f0fabc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_Container_STEEL
+    second: {fileID: 2100000, guid: e5e65a3d15a714745b931dc2f3879dc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_Container_WHITE
+    second: {fileID: 2100000, guid: 4c6836a6a82f07f4287429d6b30f6a09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_Fill_Container_BLACK
+    second: {fileID: 2100000, guid: ada699fec4240624f8c6eef705814462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_Fill_Container_STEEL
+    second: {fileID: 2100000, guid: 11db7a7beb8d91146a5d3c6d9756ea11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_UNIT_INTERACTIVE_PARTS1
+    second: {fileID: 2100000, guid: ebfdc4be145746541bed56d5d657b578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_UNIT_INTERACTIVE_PART_STEEL
+    second: {fileID: 2100000, guid: 0b6d3c79b4ec1bf4aaa87dc1c5c6ef54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatin_UNIT_INTERACTIVE_PAR_HANDEL
+    second: {fileID: 2100000, guid: c04f7b50f4d3eaa499803e83c5196893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOLES
+    second: {fileID: 2100000, guid: 35d28be94411ec542a458982973459f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOOK_STEEL
+    second: {fileID: 2100000, guid: 97a1afc37e21246498c1ac6062feafab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOPPER_UNIT_COVER_STEEL
+    second: {fileID: 2100000, guid: cfe539c2a193d3542985944aafe6a47a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOPPER_UNIT_PISTON_STEEL
+    second: {fileID: 2100000, guid: 699535de118b74045baf36ba1ca84344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_DARK_GOLD
+    second: {fileID: 2100000, guid: 63d8e814c9830a64dbf5dffba3fa38cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_GOLDEN
+    second: {fileID: 2100000, guid: df1d6997a24abcb47addb370ef9df9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_GOLD_PLASTIC
+    second: {fileID: 2100000, guid: 89571680b0efbbd4f870af81c44a122d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_GREEN
+    second: {fileID: 2100000, guid: 7036b96f45b9e9344ae06ede8b3d9db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_HOLES_BLACK
+    second: {fileID: 2100000, guid: 26b5174631b4d154eac9ff3a43d940fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_RED
+    second: {fileID: 2100000, guid: 76b76e96ed295694eb8290a81611902d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_STEEL
+    second: {fileID: 2100000, guid: 799e1f1a6fb70754da5a46bee014ddda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_TEXTURE
+    second: {fileID: 2100000, guid: b98c52277ef90ca488fe7e60113ccf91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_WHITE
+    second: {fileID: 2100000, guid: 5a99772e71e85bc4ea5c80aa58d70ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERACTIVE_PARTS_YELLOW
+    second: {fileID: 2100000, guid: 0dcf311367751ca45b21597477a46b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_BLUE
+    second: {fileID: 2100000, guid: b2243ece5d1cd5440aa30d9ee34dfb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_BLUE_2
+    second: {fileID: 2100000, guid: aa087693ce95f9c40a5e20c00430be34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_FROWN
+    second: {fileID: 2100000, guid: 22006b1ee7b04954083241b64d2f7e21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_RED
+    second: {fileID: 2100000, guid: 40a49feda1d0a094fb24494830477549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_STEEL
+    second: {fileID: 2100000, guid: 0c439004eefeb0843b1d93143d3d1167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_STEEL_2
+    second: {fileID: 2100000, guid: 1c5f50c1f8d2178428ac6e01160f4012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_WHITE
+    second: {fileID: 2100000, guid: 42e1890fd543b99429dc7c8b4fa11946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MACHINE_STATIC_BODY_WHITE1
+    second: {fileID: 2100000, guid: 52863effd019b324998bba820c5dc829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_BLACK
+    second: {fileID: 2100000, guid: 2ecf4384c1122a6499133dc5248a29d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_GREEN
+    second: {fileID: 2100000, guid: 545eb8a91afb65f47bcaaf8817764360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_GREY
+    second: {fileID: 2100000, guid: bfd45283d295d0046b83e9358d337bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_RED
+    second: {fileID: 2100000, guid: 64512b1763512cb42b38004ebf6c0099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_RED1
+    second: {fileID: 2100000, guid: c032a97fc88c0a9499165fcc8e4752ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_STEEL
+    second: {fileID: 2100000, guid: 4c8515b6f8e7ddd40a5d25430912f455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_WHITE
+    second: {fileID: 2100000, guid: 6605612493efb4540946cf41ca9edd2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_2_YELLOW
+    second: {fileID: 2100000, guid: 75fc259ede47bdb4babe35968751d495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_Group_GREEN
+    second: {fileID: 2100000, guid: dc86e9ba60dcc2f4ba2aebf84b8696cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_Group_GREY
+    second: {fileID: 2100000, guid: 73a39893d2478844791e578afd4d4bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_Group_RED
+    second: {fileID: 2100000, guid: f0aa10d83ccb196459e20ed350ea5f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_Group_STEEL
+    second: {fileID: 2100000, guid: d905013947784de4f9615fd938333c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_Group_WHITE
+    second: {fileID: 2100000, guid: 76374cafab918e047b8bc5ec02458f02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPumpStation_Group_YELLOW
+    second: {fileID: 2100000, guid: d85acb6e644de294fa49b2f7eff9d6bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOM_RAILS_STEEL_
+    second: {fileID: 2100000, guid: 950b1c2a700f1164cb173e8b0dc23680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOM_WALLS
+    second: {fileID: 2100000, guid: 7391ba734f985d44d856f7782d74fe7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOM_WINDOWS_BLACK
+    second: {fileID: 2100000, guid: 2328fec719fbb934488aebf649dd6fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCREEN_2_BLACK
+    second: {fileID: 2100000, guid: 9efe8560ae4633f4197c018abfdc9a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCREEN_2_WHITE
+    second: {fileID: 2100000, guid: 35537b334b063314bbfaa07148f05396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCREEN_BOX_STEEL
+    second: {fileID: 2100000, guid: 20b8238cacdffa34494eef0b67d72590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOCKETS_BLUE
+    second: {fileID: 2100000, guid: ca6e79f088664204b8871351dad3dad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOCKETS_GREY
+    second: {fileID: 2100000, guid: 07d897be4a209854780f953bfc5936b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STICKER19
+    second: {fileID: 2100000, guid: cfe818decb164924485ea90057369521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SUCTION_HOSE_PIPE_STEEL
+    second: {fileID: 2100000, guid: 7c8042ce0dc8d3046842773a8ac8304e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SUCTION_HOSE_PIPE_WIRE
+    second: {fileID: 2100000, guid: 3bf6b5267c635cf43a3aabd3384e32fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_2_BLACK
+    second: {fileID: 2100000, guid: e23a43e1f2cf3c0468cb5986b4a709dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_2_BLUE
+    second: {fileID: 2100000, guid: 00c9af5f3b369b14481702421a876bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_2_STEEL
+    second: {fileID: 2100000, guid: 7a2b2b0194845f54a895019e6bae8822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_2_WHITE
+    second: {fileID: 2100000, guid: 93ea743b1568b4146b7575f741252a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_3_STAND_STEEL
+    second: {fileID: 2100000, guid: f476bcefdc4871149b4ebc4e07dc6351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_3_WHITE
+    second: {fileID: 2100000, guid: f8ba33737c47f74499968531e9468788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_BLACK
+    second: {fileID: 2100000, guid: d5513f04117d22540b1d7fd0ab2d339f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_STEEL
+    second: {fileID: 2100000, guid: 64ae1a2428403d142a63f0777601d928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWITCH_WHITE
+    second: {fileID: 2100000, guid: 5348facda0ac27f4cbb24f84dd5cfda4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TABLE_STEEL
+    second: {fileID: 2100000, guid: 160ff7cac38a55b4180ff1710e191118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_1_GLASS
+    second: {fileID: 2100000, guid: 02189dd1b7ee5e24b89caa41149b08c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_1_STEEL
+    second: {fileID: 2100000, guid: 6203d0f3841ee4043936e62e3bddb233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_1_WHITE
+    second: {fileID: 2100000, guid: 0661a0b7ebb1a08408aba1879a66314b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_2_BLACK
+    second: {fileID: 2100000, guid: 9a633496f6246f248915bf59526de662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_2_BLUE
+    second: {fileID: 2100000, guid: 9a9e4da9fecc8e74bb185836ccf98154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_2_GLASS
+    second: {fileID: 2100000, guid: 0c2f6deb5c8f2984fb37546902d87605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_2_STEEL
+    second: {fileID: 2100000, guid: 5577352d94f01bd40997addf6ba34f7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_2_WHITE
+    second: {fileID: 2100000, guid: dc19aa9b60845ec4a8c22f621bf9ffb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_3_BLACK
+    second: {fileID: 2100000, guid: 9e7672f0ad0a91946846e1b9883613a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_3_BLUE
+    second: {fileID: 2100000, guid: 8c7da992afead5143957a580a549ab25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_3_GLASS
+    second: {fileID: 2100000, guid: 26816a441dff70540a53c783afc54331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_3_STEEL
+    second: {fileID: 2100000, guid: f168f56923179834bad49b39f190bc62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_COVER_UNIT_3_WHITE
+    second: {fileID: 2100000, guid: 13cc344b09ef9714ca24f81ae1f32e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_2_STEEL
+    second: {fileID: 2100000, guid: 88cab53be62b0ea4baaceb6b367e6433, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_2_TEXTURE
+    second: {fileID: 2100000, guid: 29bc8dd553bcc554e8b34abe5904e2c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_2_WHITE
+    second: {fileID: 2100000, guid: 2aba700836cb8834dbc2374bc04ddd65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_3_STEEL
+    second: {fileID: 2100000, guid: aeda67e2703264847b002c3c90070097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_3_TEXTURE
+    second: {fileID: 2100000, guid: 6979575a244c4ce4783f9ec8606d6980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_3_WHITE1
+    second: {fileID: 2100000, guid: 9454035d78efc9747816a85a2d7e9350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_STEEL
+    second: {fileID: 2100000, guid: 1a9004501558f3b4498ed672e32e89fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_TEXTURE
+    second: {fileID: 2100000, guid: 76d37832884e9f04fbf8813d70ca6353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_WHITE
+    second: {fileID: 2100000, guid: 108eca29dda94934a9d57f31f59461ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUMBLE_DRYER_WHITE1
+    second: {fileID: 2100000, guid: 0a0728b1d8d1bef47881c13982fb0688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UPPER_MACHINE_EXTERIOR
+    second: {fileID: 2100000, guid: ff906bb30f0e9b747b4b35c7163f5281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UPPER_MACHINE_INSIDE_BLACK
+    second: {fileID: 2100000, guid: 25102db002d799341842b80c7f2dd6ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UPPER_MACHINE_INSIDE_RED
+    second: {fileID: 2100000, guid: 6e311b6fa189fff4aa12bf1fe83074d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UPPER_MACHINE_INSIDE_WHITE
+    second: {fileID: 2100000, guid: 940ce127e188244498dd1b50130b0b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_BLACK
+    second: {fileID: 2100000, guid: 4a8da991e6b358d469e5c477e8c28520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_BLUE
+    second: {fileID: 2100000, guid: dab81dba6d463314caa1a358c36afca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_GLASS
+    second: {fileID: 2100000, guid: 2259e55fb03c663448e04be99825c7b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STEEL
+    second: {fileID: 2100000, guid: ec600fc7eabca9544a2598fb6549e5c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER
+    second: {fileID: 2100000, guid: ba333a4950383824da3c04af4fc8e8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_2
+    second: {fileID: 2100000, guid: 9738d285264b4974fa9b7e70c3110894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_3
+    second: {fileID: 2100000, guid: 52d75bc912c4e3d47a000b9596dd654e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_4
+    second: {fileID: 2100000, guid: 014b1f7e66de47f44979e4ba9ab44377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STRIPES_BLACK
+    second: {fileID: 2100000, guid: a814e6d1eef4fae47bcd01b3b8d6d9bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STRIPES_BLUE
+    second: {fileID: 2100000, guid: 9423fb22c77f37844aed569f1e2bf618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STRIPES_GREEN
+    second: {fileID: 2100000, guid: fe1bc252e160c3842a87925263db8163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STRIPES_RED
+    second: {fileID: 2100000, guid: 001958d373f03714db7dccd82fd15580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STRIPES_YELLOW
+    second: {fileID: 2100000, guid: 977d825945a16f643975ccfcc5585207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_WHITE
+    second: {fileID: 2100000, guid: 69785179d7b1eb8469f64f634cfc16ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_BLACK
+    second: {fileID: 2100000, guid: b49ed59047351984984d97b408083e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_GREEN
+    second: {fileID: 2100000, guid: dcc886298d19b1b4fb6552fe3c0f0f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_PINK
+    second: {fileID: 2100000, guid: 7049caf73ed28db41b510fbd1ea1d85d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_RED
+    second: {fileID: 2100000, guid: 197a7f30e2bb6c748961b7a9fb3dac7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_STEEL
+    second: {fileID: 2100000, guid: 761e5fbee06830b4a82c6f4e33a0e98f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_WHITE
+    second: {fileID: 2100000, guid: 4005b2f9cc6b1ba478ffa5488174c3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_WHITE_2
+    second: {fileID: 2100000, guid: cae5c20b5e7ce8740933f8fa2bbd89ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRES_YELLOW
+    second: {fileID: 2100000, guid: 7c84de33e75a4dd45aa6db5ab4509d64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER
+    second: {fileID: 2100000, guid: 84fc8706106422d4e81463b3cabb118e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_2
+    second: {fileID: 2100000, guid: 5655c6d68e6eb3d4ab55225e1514f2e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_3
+    second: {fileID: 2100000, guid: 19f4c37d488c491489f68e06207d4e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_4
+    second: {fileID: 2100000, guid: 450aad36fc18db34a8c0851783703fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_5
+    second: {fileID: 2100000, guid: e9700bfcaa68e7a4285731e0e6558456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_6
+    second: {fileID: 2100000, guid: 9cb2b0bb2f75ae14fbbb5cfad3c929db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_7
+    second: {fileID: 2100000, guid: b84129096d0134d47b32aad8aa4e642a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_8
+    second: {fileID: 2100000, guid: 05955130cf871dd489b24267da6a50f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_BUTTON_STICKER_
+    second: {fileID: 2100000, guid: 4a0275b9ffb36cd43805ffc992730ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_RED
+    second: {fileID: 2100000, guid: 0445a066794ecac478f70d1e68a456a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_STEEL
+    second: {fileID: 2100000, guid: 38951d1f16031a44f936358b6331461e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WIRE_WHITE
+    second: {fileID: 2100000, guid: 5d2c33f1327ace349869cdcaf5ebc90a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _BLACK
+    second: {fileID: 2100000, guid: eae5966f9de4ded4486204fb1ac2dffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _EmmisionLight
+    second: {fileID: 2100000, guid: 5bbe2fdeb5d3b0c4bab94fa99e7e62a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STEEL_2
+    second: {fileID: 2100000, guid: 7a0c407bf28ce96418983924d44d5679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER1
+    second: {fileID: 2100000, guid: e64f40b918d630b4ebe7873e2282e3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER10
+    second: {fileID: 2100000, guid: 81a00835062f3384193bc53d500a9c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER11
+    second: {fileID: 2100000, guid: 3a9879722aa47ea40aedc232bb80dbb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER12
+    second: {fileID: 2100000, guid: bf56d266071ac784d92e299625742c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER13
+    second: {fileID: 2100000, guid: 4b0c392a84c83db4289234e8a595ca33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER14
+    second: {fileID: 2100000, guid: c9424701517339744995cb170032ddf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER15
+    second: {fileID: 2100000, guid: 79f310a3d802e6d4ab149f19e0cc3da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER16
+    second: {fileID: 2100000, guid: c0d2f0efb1d5aa246a53811f4ba6793e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER17
+    second: {fileID: 2100000, guid: 929d5ee77a601f545ab28da9b03ce32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER18
+    second: {fileID: 2100000, guid: 501ce5629c01f9c46be205be6c5f47e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER2
+    second: {fileID: 2100000, guid: 05763b232676d004d8ec995c5ef74a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER3
+    second: {fileID: 2100000, guid: 170062c8049ef204399434f4cc02302b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER4
+    second: {fileID: 2100000, guid: c23b329e1b0f90a42a3ed4359e999277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER5
+    second: {fileID: 2100000, guid: f3a1ab34c6fe9d54fbbc753622940581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER6
+    second: {fileID: 2100000, guid: 229c5628fc298234abb402f727f26a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER7
+    second: {fileID: 2100000, guid: 4decf026971dda748862d3cb808cec26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER8
+    second: {fileID: 2100000, guid: e367d27c778ab3948b5b4a6ca8f4121c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER9
+    second: {fileID: 2100000, guid: ecb53f37ba2da3842b1d6ac7230a9d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _WHITE
+    second: {fileID: 2100000, guid: 71d6cf6894baa8048a078d14b7ce3604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ___SWITCHS3_black
+    second: {fileID: 2100000, guid: 12e2bed866db94346a82678e22422821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ___SWITCHS3_green1
+    second: {fileID: 2100000, guid: 446ceb97c967c334b868d210f3f937b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ___SWITCHS3_red
+    second: {fileID: 2100000, guid: f165ffd5a16d17c4595b9dfe6ebbd6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____RoomWalls
+    second: {fileID: 2100000, guid: f7d533351ca4d6e4fb266c94785202e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _________Default_Material
+    second: {fileID: 2100000, guid: 5bab9e8cd7240304b92c8ef4bdac2106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____aiStandardSurface20
+    second: {fileID: 2100000, guid: a8322552432b1de4b9cd3318d6e945cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____blue_door_material
+    second: {fileID: 2100000, guid: c39197746c7361147be3800a789e3c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____door_glass
+    second: {fileID: 2100000, guid: 66eda4d02fc6a384bb9789ae1b593f98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____lambert138
+    second: {fileID: 2100000, guid: b6fffcde60469b24799831c5eeb1ec6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____steel_equipments
+    second: {fileID: 2100000, guid: 7f47b0851ff30ad478da7a1ee7719c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _ceiling_vent_material
+    second: {fileID: 2100000, guid: d2ff3c1e488a8df49b596b7032458336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _dustbins_black
+    second: {fileID: 2100000, guid: 706fc53835cdf8a4c82e5f3ddbffc10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _dustbins_green
+    second: {fileID: 2100000, guid: 2402ba325871ceb4b8a4f4822d53ca51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _dustbins_grey
+    second: {fileID: 2100000, guid: 02a52b725efbf164ea4ed00cff381b4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface123
+    second: {fileID: 2100000, guid: 47dc9124238d2414cb9db3cb38216f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 11e0777efa6093441a0dca0d13103bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_door_glass
+    second: {fileID: 2100000, guid: c48553d3c8e479d49a8e96e7028f7865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_door_material
+    second: {fileID: 2100000, guid: b57884d74c91f9a4fb256ae0396c7d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_door_steel
+    second: {fileID: 2100000, guid: 20636829d7de1a44a898d95a19a1462d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: f7db2826b1c5b7f46b35eeda81870daf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10
+    second: {fileID: 2800000, guid: 17bdf87350e94384eaa868c400f3ca05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 11
+    second: {fileID: 2800000, guid: b644f7e75d920764d8061363a5005199, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12
+    second: {fileID: 2800000, guid: 18f5d1226067dd54193e5a5a3a24c46c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 15
+    second: {fileID: 2800000, guid: df216391400ad7b4088ec92a6bab3c5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 16
+    second: {fileID: 2800000, guid: ef349fbdeeee08d45a6e0016824de124, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 17
+    second: {fileID: 2800000, guid: d5f4a89092af9194fa97003f43181a62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 18
+    second: {fileID: 2800000, guid: c4ac2deeb7bb42f4bb216820abd9175a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 19
+    second: {fileID: 2800000, guid: 800794327c3ee5248a3ccb2076d27020, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: e3712df19e9ca814488aa5a74341663c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: d3f26cc4f496e3646bb9294380cb1f60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2800000, guid: 4ed10e701ba9c344a8055c8290405f2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: a589ab2e2151b8541b7d7716232808e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6
+    second: {fileID: 2800000, guid: 9b9b3abbc1447874c8ac6dde1320fd60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7
+    second: {fileID: 2800000, guid: 1a1b404f35f6f81498c997492c377c83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8
+    second: {fileID: 2800000, guid: ad980e9442e1f254d96aa50574b665cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9
+    second: {fileID: 2800000, guid: e9ec87ee2df534f4c9df63f86b69f32b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BASKET_ambient_occlusion
+    second: {fileID: 2800000, guid: 20e51d226f955f04bb67c56bf5d984f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CAGE
+    second: {fileID: 2800000, guid: 82f5e328b1172e4429d866897b349a62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CAGE Normal
+    second: {fileID: 2800000, guid: 15211364bae23e245877d7f577d971af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Vent Color texture
+    second: {fileID: 2800000, guid: daf662bed1080fd4099ffad52437b602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FRL_diffuse
+    second: {fileID: 2800000, guid: 1942ed6f362919a49b2cb174770d6167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SUCTION_HOSE_PIPE_SUCTION_HOSE_PIPE_WIRE_Normal
+    second: {fileID: 2800000, guid: 11b471c083677ca4bada3b64c0955f2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UPPER_MACHINE_EXTERIOR_ambient_occlusion
+    second: {fileID: 2800000, guid: 7e683f3c117be2343983371c6c8b94ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER
+    second: {fileID: 2800000, guid: bba31bc76bf4be14bb301af419fa444e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_2
+    second: {fileID: 2800000, guid: 65ebabfe145e7dc4a9f4afe06c8b4b65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_3
+    second: {fileID: 2800000, guid: 8b46500295476154a8f0393cd8b4832a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_4
+    second: {fileID: 2800000, guid: 151b1bee1ce2ff648b8104f107ee36bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UTILITY_STICKER_4_ALPHA
+    second: {fileID: 2800000, guid: 181735c342ab1574d9daddf9dd0ae2e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER
+    second: {fileID: 2800000, guid: e9022d4510c36cb429f261b3af9429df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_2
+    second: {fileID: 2800000, guid: 79c7aa7799cf20045bc173636d71d736, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_3
+    second: {fileID: 2800000, guid: cb8e8629af2b8c94b90f0993944a1c26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_4
+    second: {fileID: 2800000, guid: 2c9575ab0dbb00f4094c765c8a1da2ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_5
+    second: {fileID: 2800000, guid: a71cdce1815020a4088c4c9c4257b328, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_6
+    second: {fileID: 2800000, guid: 0b11e09d04369aa49b69abd90bfc7025, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_7
+    second: {fileID: 2800000, guid: 306b6d4ba06917a4c8dc847e893e57f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_2_STICKER_8
+    second: {fileID: 2800000, guid: c79b791b134d4114abcf40529011792f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WIRE_BOX_BUTTON_STICKER_
+    second: {fileID: 2800000, guid: 6a27625fcbedb044eb066bc27e252c77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: YELLOW_MOTOR_TEXTURE
+    second: {fileID: 2800000, guid: b2ae376613045304b9a47103f2150119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dad70498-0149-1024x1024
+    second: {fileID: 2800000, guid: da8e3cd412d5f4449959ee0653b143b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dad70498-0149-1024x1024_2
+    second: {fileID: 2800000, guid: 02ce39c66a183ad45a27e78412c8d678, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

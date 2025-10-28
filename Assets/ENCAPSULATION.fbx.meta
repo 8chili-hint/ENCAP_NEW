@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 6d37d9b3db986f746a1ccea219870fcd
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_1_STEEL
+    second: {fileID: 2100000, guid: ee70d1d126c62544da790737a3c5c609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_2_STEEL
+    second: {fileID: 2100000, guid: 2b076b0e641a75f45b095876fdfe8996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_3_STEEL
+    second: {fileID: 2100000, guid: 477ae9514d5e4e144847a8ade54d1c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_4_STEEL
+    second: {fileID: 2100000, guid: 64e65a31ad855fb46a87cc2c73c68873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS_WHITE
+    second: {fileID: 2100000, guid: 013be0474bbdc7e4c9d36f61b3c5b950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOM_RAILS_STEEL_
+    second: {fileID: 2100000, guid: 6b829ffc3dd0ed841a3d9d228a31aa52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOM_WALLS
+    second: {fileID: 2100000, guid: 373e20d069de4814dbd4617cc8718cf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOM_WINDOWS_BLACK
+    second: {fileID: 2100000, guid: 3bc1039b018dcb14cb901aea0d2befa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STICKER19
+    second: {fileID: 2100000, guid: 7433b374178c8f142b03ff2523c75f21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TABLE_STEEL
+    second: {fileID: 2100000, guid: 8eb20c612b47be84aaf9a20973f60d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER1
+    second: {fileID: 2100000, guid: 265eb21a8779e8945800b573dc7a638a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER10
+    second: {fileID: 2100000, guid: 7965cc205ef221248b60672d54f45bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER11
+    second: {fileID: 2100000, guid: 45a968f99c68b0240ae9949967ab0b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER12
+    second: {fileID: 2100000, guid: d25eb57e827bdfb4b9bc21fbad0b0e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER13
+    second: {fileID: 2100000, guid: 2b699397536a0464e8a0954aa8c19073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER14
+    second: {fileID: 2100000, guid: 75cd3d2cb0325504fbba6831efe46253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER15
+    second: {fileID: 2100000, guid: 07fb82e3fe696d044b06929ea6ee0dcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER16
+    second: {fileID: 2100000, guid: 5b598ab398192e04d806078c988892dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER17
+    second: {fileID: 2100000, guid: 88cc1f43de7622a4fab551f0d5f0c855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER18
+    second: {fileID: 2100000, guid: bf9350bb7de4f2e4f91fabe7581f4b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER2
+    second: {fileID: 2100000, guid: 9116ee4645faa1f458a35577d1aef93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER3
+    second: {fileID: 2100000, guid: 95677289ed5038c4597fea854183f64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER4
+    second: {fileID: 2100000, guid: c0c32acf8d7500840880837094c203ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER5
+    second: {fileID: 2100000, guid: 9fb40ef41aa3fde4f8577558a6b72b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER6
+    second: {fileID: 2100000, guid: 4496955ddf4459e48ba67166bc7fb36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER7
+    second: {fileID: 2100000, guid: 3a99cf367c69f874fafbd06621331501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER8
+    second: {fileID: 2100000, guid: 88f3d9f9f0bcbe044960a392a88b6bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _STICKER9
+    second: {fileID: 2100000, guid: 2eb725bd79cc87241997fe0e12fffdc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____blue_door_material
+    second: {fileID: 2100000, guid: 027875cda7968c44491611b5bbe8b333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____door_glass
+    second: {fileID: 2100000, guid: dcb4e36d91bcd17468c00056939ff235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____lambert138
+    second: {fileID: 2100000, guid: 50716caafa48b0c4e8ae9fea5ee68e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_door_glass
+    second: {fileID: 2100000, guid: 88a87f6f52eccc04d9b5075d67074702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_door_material
+    second: {fileID: 2100000, guid: 9f6a4d346d5c659418d6cee1e766f54e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_door_steel
+    second: {fileID: 2100000, guid: 3ef3570c0e7f47e4e88177e2b760500a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
